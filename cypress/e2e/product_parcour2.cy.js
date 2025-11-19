@@ -50,9 +50,7 @@
 
 //         // Supprimer les deux produits du panier
 //     })   
-<<<<<<< HEAD
 // })
 //return
-=======
+
 // })
->>>>>>> 9ee0013374be35339eb38dd9680c2cbb2b92b394

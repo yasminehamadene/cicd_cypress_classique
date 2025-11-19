@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.468" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-11-19T10:46:55" tests="0" file="cypress\e2e\product_parcour1.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Gestion complète des articles sur SauceDemo" timestamp="2025-11-19T10:46:55" tests="1" time="2.466" failures="0">
+    <testcase name="Gestion complète des articles sur SauceDemo Ajoute deux articles, vérifie le panier puis les supprime" time="1.587" classname="Ajoute deux articles, vérifie le panier puis les supprime">
+    </testcase>
+  </testsuite>
+</testsuites>

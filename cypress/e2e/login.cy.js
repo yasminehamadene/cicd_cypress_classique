@@ -1,4 +1,4 @@
-HEAD
+
 /// <reference types="cypress" />
 
 describe("fonctionnalité d'authentification", ()=>{

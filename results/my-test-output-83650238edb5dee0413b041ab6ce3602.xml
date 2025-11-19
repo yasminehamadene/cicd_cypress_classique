@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="4.300" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-11-19T10:44:19" tests="0" file="cypress\e2e\product.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="fonctionnalité de gestion de produit" timestamp="2025-11-19T10:44:19" tests="2" time="4.298" failures="0">
+    <testcase name="fonctionnalité de gestion de produit ajouter un produit" time="1.954" classname="ajouter un produit">
+    </testcase>
+    <testcase name="fonctionnalité de gestion de produit supprimer un produit" time="1.028" classname="supprimer un produit">
+    </testcase>
+  </testsuite>
+</testsuites>
