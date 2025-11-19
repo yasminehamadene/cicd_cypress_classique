@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="10.598" tests="5" failures="1">
+  <testsuite name="Root Suite" timestamp="2025-11-19T09:24:02" tests="0" file="cypress\e2e\login.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="fonctionnalité d&apos;authentification" timestamp="2025-11-19T09:24:02" tests="5" time="10.596" failures="1">
+    <testcase name="fonctionnalité d&apos;authentification login with valid credentials" time="0.000" classname="login with valid credentials">
+      <failure message="Timed out retrying after 4000ms: Expected to find element: `span.title`, but never found it." type="AssertionError"><![CDATA[AssertionError: Timed out retrying after 4000ms: Expected to find element: `span.title`, but never found it.
+    at Context.eval (webpack:///./cypress/e2e/login.cy.js:14:29)]]></failure>
+    </testcase>
+    <testcase name="fonctionnalité d&apos;authentification login with invalid credentials" time="0.787" classname="login with invalid credentials">
+    </testcase>
+    <testcase name="fonctionnalité d&apos;authentification login fixture credentials" time="1.445" classname="login fixture credentials">
+    </testcase>
+    <testcase name="fonctionnalité d&apos;authentification login with simple fixture" time="0.725" classname="login with simple fixture">
+    </testcase>
+    <testcase name="fonctionnalité d&apos;authentification test basique sur l&apos;application" time="0.072" classname="test basique sur l&apos;application">
+    </testcase>
+  </testsuite>
+</testsuites>
