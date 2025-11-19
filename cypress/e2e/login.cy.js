@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 /// <reference types="cypress" />
 
 describe("fonctionnalité d'authentification", ()=>{
@@ -58,7 +58,7 @@ describe("fonctionnalité d'authentification", ()=>{
         cy.get("div.login_logo").should("be.visible")
     })
 })
-=======
+
 // /// <reference types="cypress" />
 
 // describe("fonctionnalité d'authentification", ()=>{
@@ -118,4 +118,3 @@ describe("fonctionnalité d'authentification", ()=>{
 //         cy.get("div.login_logo").should("be.visible")
 //     })
 // })
->>>>>>> 9ee0013374be35339eb38dd9680c2cbb2b92b394
